@@ -97,7 +97,7 @@ Helper CSS
 }
 
 .section-title h2 span {
-	background: #F9DF02;
+	background: #fcff18;
 	display: inline-block;
 	padding: 0 4px;
 }
@@ -163,7 +163,7 @@ Commom elements
 	font-weight: 700;
 	min-width: 228px;
 	padding: 20px 40px;
-	background: #F9DF02;
+	background: #fcff18;
 	color: #353535;
 	line-height: normal;
 	cursor: pointer;
@@ -176,11 +176,11 @@ Commom elements
 
 .site-btn.sb-dark {
 	background: #242424;
-	color: #F9DF02;
+	color: #fcff18;
 }
 
 .site-btn.sb-dark:hover {
-	color: #F9DF02;
+	color: #fcff18;
 }
 
 .site-btn.sb-line {
@@ -279,11 +279,11 @@ Commom elements
 
 .accordion-area .panel-header .panel-link.active {
 	background: #242424;
-	color: #F9DF02;
+	color: #fcff18;
 }
 
 .accordion-area .panel-header .panel-link.collapsed {
-	background: #F9DF02;
+	background: #fcff18;
 	color: #242424;
 }
 
@@ -295,7 +295,7 @@ Commom elements
 .accordion-area .panel-link.active:after {
 	content: "-";
 	margin-top: -10px;
-	color: #F9DF02;
+	color: #fcff18;
 }
 
 .accordion-area .panel-link {
@@ -307,7 +307,7 @@ Commom elements
 	padding-left: 30px;
 	font-size: 18px;
 	font-weight: 700;
-	background: #F9DF02;
+	background: #fcff18;
 	color: #242424;
 	cursor: pointer;
 }
@@ -335,7 +335,7 @@ Commom elements
 	border: none;
 	padding: 18px 30px;
 	margin-right: 9px;
-	background: #F9DF02;
+	background: #fcff18;
 	margin-bottom: 10px;
 }
 
@@ -430,7 +430,7 @@ Commom elements
 }
 
 .icon-box-item:hover .ib-icon {
-	background: #F9DF02;
+	background: #fcff18;
 }
 
 /*------------------
@@ -464,7 +464,7 @@ Header section
 
 .main-menu li a.active,
 .main-menu li a:hover {
-	background: #F9DF02;
+	background: #fcff18;
 }
 
 .header-right {
@@ -475,7 +475,7 @@ Header section
 .header-right .hr-box {
 	width: 294px;
 	padding: 31px 52px;
-	background: #F9DF02;
+	background: #fcff18;
 }
 
 .header-right .hr-box img {
@@ -520,7 +520,7 @@ Hero section
 }
 
 .hero-text h2 span {
-	color: #F9DF02;
+	color: #fcff18;
 }
 
 .hero-text .site-btn {
@@ -556,7 +556,7 @@ Add section
 }
 
 .add-text h2 span {
-	color: #F9DF02;
+	color: #fcff18;
 }
 
 .add-text ul {
@@ -589,7 +589,7 @@ Milestones section
 
 .milestone h2 {
 	display: inline-block;
-	background: #F9DF02;
+	background: #fcff18;
 	padding: 4px 11px;
 	margin-bottom: 2px;
 }
@@ -760,7 +760,7 @@ Footer section
 }
 
 .copyright a:hover {
-	color: #F9DF02;
+	color: #fcff18;
 }
 
 .footer-menu {
@@ -808,7 +808,7 @@ Other Pages
 	height: 6px;
 	bottom: 0;
 	left: 0;
-	background: #F9DF02;
+	background: #fcff18;
 }
 
 /* ----------------
@@ -839,7 +839,7 @@ About Page
 }
 
 .achievement-section .circle-progress .progress-info h2 {
-	color: #F9DF02;
+	color: #fcff18;
 }
 
 .achievement-section .circle-progress .progress-info p {
@@ -956,7 +956,7 @@ Classes Page
 	width: 29px;
 	height: 3px;
 	margin-top: 18px;
-	background: #F9DF02;
+	background: #fcff18;
 	-webkit-transition: all 0.4s;
 	transition: all 0.4s;
 }
@@ -972,8 +972,8 @@ Classes Page
 }
 
 .pricing-box:hover {
-	background: #F9DF02;
-	border-color: #F9DF02;
+	background: #fcff18;
+	border-color: #fcff18;
 }
 
 .pricing-box:hover h2,
@@ -1121,7 +1121,7 @@ Blog page
 	font-size: 14px;
 	border-radius: 50%;
 	color: #242424;
-	background: #F9DF02;
+	background: #fcff18;
 	text-align: center;
 }
 
@@ -1175,7 +1175,7 @@ Blog page
 	color: #242424;
 	font-size: 12px;
 	padding: 5px 13px 4px 9px;
-	background: #F9DF02;
+	background: #fcff18;
 }
 
 .tags-widget a {
@@ -1185,7 +1185,7 @@ Blog page
 	color: #242424;
 	margin-bottom: 15px;
 	margin-right: 3px;
-	background: #F9DF02;
+	background: #fcff18;
 	padding: 4px 18px;
 }
 
@@ -1401,7 +1401,7 @@ Responsive
 	}
 	.header-right {
 		float: none;
-		background: #F9DF02;
+		background: #fcff18;
 		text-align: center;
 	}
 	.header-right .hr-box {
