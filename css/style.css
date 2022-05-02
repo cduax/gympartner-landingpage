@@ -475,7 +475,7 @@ Header section
 .header-right .hr-box {
 	width: 294px;
 	padding: 31px 52px;
-	background: #f9e00200;
+	background: #F9DF02;
 }
 
 .header-right .hr-box img {
@@ -1400,7 +1400,7 @@ Responsive
 	}
 	.header-right {
 		float: none;
-		background: #f9e00200;
+		background: #F9DF02;
 		text-align: center;
 	}
 	.header-right .hr-box {
