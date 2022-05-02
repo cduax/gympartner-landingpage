@@ -1371,7 +1371,7 @@ Responsive
 		margin-top: -43px;
 	}
 	.slicknav_nav {
-		background: #353535;
+		background: #ffffff;
 	}
 	.slicknav_nav ul {
 		margin: 0;
@@ -1383,7 +1383,8 @@ Responsive
 	}
 	.slicknav_nav .slicknav_row.active,
 	.slicknav_nav a.active {
-		color: #F9DF02;
+		font-weight: bold;
+		color: #000000;
 	}
 	.slicknav_nav a:hover {
 		border-radius: 0;
