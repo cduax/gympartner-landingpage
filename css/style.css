@@ -97,7 +97,7 @@ Helper CSS
 }
 
 .section-title h2 span {
-	background: #18e4ff;
+	background: #fcff18;
 	display: inline-block;
 	padding: 0 4px;
 }
@@ -163,7 +163,7 @@ Commom elements
 	font-weight: 700;
 	min-width: 228px;
 	padding: 20px 40px;
-	background: #18e4ff;
+	background: #fcff18;
 	color: #353535;
 	line-height: normal;
 	cursor: pointer;
@@ -176,11 +176,11 @@ Commom elements
 
 .site-btn.sb-dark {
 	background: #242424;
-	color: #18e4ff;
+	color: #fcff18;
 }
 
 .site-btn.sb-dark:hover {
-	color: #18e4ff;
+	color: #fcff18;
 }
 
 .site-btn.sb-line {
@@ -279,11 +279,11 @@ Commom elements
 
 .accordion-area .panel-header .panel-link.active {
 	background: #242424;
-	color: #18e4ff;
+	color: #fcff18;
 }
 
 .accordion-area .panel-header .panel-link.collapsed {
-	background: #18e4ff;
+	background: #fcff18;
 	color: #242424;
 }
 
@@ -295,7 +295,7 @@ Commom elements
 .accordion-area .panel-link.active:after {
 	content: "-";
 	margin-top: -10px;
-	color: #18e4ff;
+	color: #fcff18;
 }
 
 .accordion-area .panel-link {
@@ -307,7 +307,7 @@ Commom elements
 	padding-left: 30px;
 	font-size: 18px;
 	font-weight: 700;
-	background: #18e4ff;
+	background: #fcff18;
 	color: #242424;
 	cursor: pointer;
 }
