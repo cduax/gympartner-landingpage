@@ -545,7 +545,7 @@ Add section
 }
 
 .add-text {
-	padding-left: 77px;
+	padding-left: 70px;
 }
 
 .add-text h2 {
@@ -565,6 +565,7 @@ Add section
 }
 
 .add-text ul li {
+	margin-inline-end: -20%;
 	margin-bottom: 19px;
 	color: #fff;
 }
