@@ -12,6 +12,7 @@
 
 html,
 body {
+	scroll-behavior: smooth;
 	height: 100%;
 	font-family: "Roboto", sans-serif;
 	-webkit-font-smoothing: antialiased;
@@ -496,21 +497,21 @@ Hero section
  ---------------------*/
 
 .hero-section {
-	height: 860px;
+	height: 867px;
 	display: -webkit-box;
 	display: -ms-flexbox;
 	display: flex;
-	-webkit-box-align: center;
-	-ms-flex-align: center;
+	-webkit-box-align: left;
+	-ms-flex-align: left;
 	align-items: center;
-	-webkit-box-pack: center;
-	-ms-flex-pack: center;
-	justify-content: center;
-	text-align: center;
+	-webkit-box-pack: left;
+	-ms-flex-pack: left;
+	justify-content: left;
+	text-align: left;
 }
 
 .hero-text {
-	padding-top: 100px;
+	padding-top: 300px;
 }
 
 .hero-text h2 {
@@ -573,6 +574,19 @@ Add section
 .add-text ul li img {
 	margin-right: 19px;
 }
+
+/* ----------------
+Download App Section
+ ---------------------*/
+
+ .app-section {
+	padding-top: 113px;
+	padding-bottom: 170px;
+}
+
+div.a {
+	font-size: 20px;
+  }
 
 /* ----------------
 Milestones section
@@ -917,7 +931,7 @@ Classes Page
 	border: 2px solid #ffffff;
 	text-align: center;
 	padding: 62px 40px 31px;
-	height: 593px;
+	height: 650px;
 	margin-bottom: 30px;
 	-webkit-transition: all 0.4s;
 	transition: all 0.4s;
